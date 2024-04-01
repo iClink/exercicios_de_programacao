@@ -1,0 +1,6 @@
+x = input('Digite um nome: ')
+x = x.strip()
+x = x.title()
+x = x.split()
+print('Seu primerio nome é: {}'.format((x[0])))
+print('Seu ultimo nome é: {}'.format((x[-1])))
