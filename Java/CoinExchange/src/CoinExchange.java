@@ -1,4 +1,3 @@
-//key = 92b754057ccaf96354a3ad70
 import com.google.gson.Gson;
 import java.net.URI;
 import java.net.http.HttpClient;
